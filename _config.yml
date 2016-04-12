@@ -1,7 +1,7 @@
 name: IridiscentDigital
 favicon: null
-layout_spectrum: 0.7477694919798523
-typography_spectrum: 0.14736196235753596
+layout_spectrum: 1
+typography_spectrum: 0.99911
 cta:
   domain: null
   bucket: null
